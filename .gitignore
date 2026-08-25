@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+jump_all.csv
+.jump_helper/
+jump_*.png
+landing_*.png
+gameover_*.png
+target_fail*.png
+startup_player_fail.png
