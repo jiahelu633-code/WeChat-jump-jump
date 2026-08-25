@@ -1,4 +1,4 @@
-# WeChat Jump Helper
+# WeChat JumpJump Helper
 
 微信小程序《跳一跳》自动跳跃助手。
 
